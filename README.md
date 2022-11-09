@@ -1,2 +1,2 @@
 # SinifiGecme
-Sınıfı geçip geçmediğini kontrol eden program (www.patika.dev)
+Not ortalamasına göre sınıfta geçme durumunu gösteren program
